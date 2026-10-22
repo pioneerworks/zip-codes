@@ -301995,3 +301995,115 @@
   :time_zone: America/Denver
   :latitude: 44.062053
   :longitude: -104.71043
+'00801':
+  :state_code: VI
+  :state_name: Virgin Islands
+  :city: St Thomas
+  :time_zone: America/St_Thomas
+  :latitude: 18.3484
+  :longitude: -64.974
+'00802':
+  :state_code: VI
+  :state_name: Virgin Islands
+  :city: St Thomas
+  :time_zone: America/St_Thomas
+  :latitude: 18.3387
+  :longitude: -64.916
+'00803':
+  :state_code: VI
+  :state_name: Virgin Islands
+  :city: St Thomas
+  :time_zone: America/St_Thomas
+  :latitude: 18.3223
+  :longitude: -64.9637
+'00804':
+  :state_code: VI
+  :state_name: Virgin Islands
+  :city: St Thomas
+  :time_zone: America/St_Thomas
+  :latitude: 18.3223
+  :longitude: -64.9637
+'00805':
+  :state_code: VI
+  :state_name: Virgin Islands
+  :city: St Thomas
+  :time_zone: America/St_Thomas
+  :latitude: 18.3223
+  :longitude: -64.9637
+'00820':
+  :state_code: VI
+  :state_name: Virgin Islands
+  :city: Christiansted
+  :time_zone: America/St_Thomas
+  :latitude: 17.7342
+  :longitude: -64.7347
+'00821':
+  :state_code: VI
+  :state_name: Virgin Islands
+  :city: Christiansted
+  :time_zone: America/St_Thomas
+  :latitude: 17.7342
+  :longitude: -64.7347
+'00822':
+  :state_code: VI
+  :state_name: Virgin Islands
+  :city: Christiansted
+  :time_zone: America/St_Thomas
+  :latitude: 17.7342
+  :longitude: -64.7347
+'00823':
+  :state_code: VI
+  :state_name: Virgin Islands
+  :city: Christiansted
+  :time_zone: America/St_Thomas
+  :latitude: 17.7237
+  :longitude: -64.7445
+'00824':
+  :state_code: VI
+  :state_name: Virgin Islands
+  :city: Christiansted
+  :time_zone: America/St_Thomas
+  :latitude: 17.7446
+  :longitude: -64.6825
+'00830':
+  :state_code: VI
+  :state_name: Virgin Islands
+  :city: St John
+  :time_zone: America/St_Thomas
+  :latitude: 18.3282
+  :longitude: -64.7407
+'00831':
+  :state_code: VI
+  :state_name: Virgin Islands
+  :city: St John
+  :time_zone: America/St_Thomas
+  :latitude: 18.3273
+  :longitude: -64.7864
+'00840':
+  :state_code: VI
+  :state_name: Virgin Islands
+  :city: Frederiksted
+  :time_zone: America/St_Thomas
+  :latitude: 17.7226
+  :longitude: -64.8729
+'00841':
+  :state_code: VI
+  :state_name: Virgin Islands
+  :city: Frederiksted
+  :time_zone: America/St_Thomas
+  :latitude: 17.7648
+  :longitude: -64.8096
+'00850':
+  :state_code: VI
+  :state_name: Virgin Islands
+  :city: Kingshill
+  :time_zone: America/St_Thomas
+  :latitude: 17.7208
+  :longitude: -64.8002
+'00851':
+  :state_code: VI
+  :state_name: Virgin Islands
+  :city: Kingshill
+  :time_zone: America/St_Thomas
+  :latitude: 17.7099
+  :longitude: -64.7009
